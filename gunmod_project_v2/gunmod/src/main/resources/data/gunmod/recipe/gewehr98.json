@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "  I",
+  "IIT",
+  "P  "
+ ],
+ "key": {
+  "I": "minecraft:iron_ingot",
+  "T": "minecraft:tripwire_hook",
+  "P": "minecraft:oak_planks"
+ },
+ "result": {
+  "id": "gunmod:gewehr98",
+  "count": 1
+ }
+}

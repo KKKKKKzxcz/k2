@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  "minecraft:gunpowder",
+  "minecraft:iron_nugget",
+  "minecraft:paper"
+ ],
+ "result": {
+  "id": "gunmod:shell",
+  "count": 3
+ }
+}

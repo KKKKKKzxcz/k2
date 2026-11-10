@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "BBB",
+  "ITI",
+  "S S"
+ ],
+ "key": {
+  "I": "minecraft:iron_ingot",
+  "T": "minecraft:tripwire_hook",
+  "S": "minecraft:stick",
+  "B": "minecraft:iron_block"
+ },
+ "result": {
+  "id": "gunmod:maxim",
+  "count": 1
+ }
+}

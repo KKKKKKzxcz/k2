@@ -1,0 +1,17 @@
+{
+ "item.gunmod.bullet": "Bullet",
+ "item.gunmod.shell": "Shotgun Shell",
+ "item.gunmod.pistol": "Luger P08",
+ "item.gunmod.m1911": "Colt M1911",
+ "item.gunmod.webley": "Webley Mk VI",
+ "item.gunmod.c96": "Mauser C96",
+ "item.gunmod.rifle": "Lee-Enfield SMLE",
+ "item.gunmod.gewehr98": "Gewehr 98",
+ "item.gunmod.m1903": "Springfield M1903",
+ "item.gunmod.mosin": "Mosin-Nagant M91",
+ "item.gunmod.mp18": "MP 18",
+ "item.gunmod.chauchat": "Chauchat M1915",
+ "item.gunmod.lewis": "Lewis Gun",
+ "item.gunmod.maxim": "Maxim MG08",
+ "item.gunmod.trench": "Winchester M1897 Trench Gun"
+}

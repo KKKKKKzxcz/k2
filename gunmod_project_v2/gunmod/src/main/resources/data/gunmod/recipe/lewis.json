@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "IIR",
+  "BTI",
+  "S  "
+ ],
+ "key": {
+  "I": "minecraft:iron_ingot",
+  "T": "minecraft:tripwire_hook",
+  "S": "minecraft:stick",
+  "R": "minecraft:redstone",
+  "B": "minecraft:iron_block"
+ },
+ "result": {
+  "id": "gunmod:lewis",
+  "count": 1
+ }
+}

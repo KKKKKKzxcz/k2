@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "IIR",
+  "ITI",
+  "S S"
+ ],
+ "key": {
+  "I": "minecraft:iron_ingot",
+  "T": "minecraft:tripwire_hook",
+  "S": "minecraft:stick",
+  "R": "minecraft:redstone"
+ },
+ "result": {
+  "id": "gunmod:chauchat",
+  "count": 1
+ }
+}

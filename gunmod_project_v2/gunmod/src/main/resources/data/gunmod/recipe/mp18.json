@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "III",
+  "IRT",
+  "S  "
+ ],
+ "key": {
+  "I": "minecraft:iron_ingot",
+  "T": "minecraft:tripwire_hook",
+  "S": "minecraft:stick",
+  "R": "minecraft:redstone"
+ },
+ "result": {
+  "id": "gunmod:mp18",
+  "count": 1
+ }
+}
